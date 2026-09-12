@@ -28,7 +28,7 @@ Este programa em Python ajuda você a:
 ## 🚀 Como Executar
 
 **Pré-requisitos**
-- Python 3.x instalado
+- Python 3.14 instalado
 
 **Passo a passo**
 
@@ -54,7 +54,7 @@ Este programa em Python ajuda você a:
 | De R$ 200,00 a R$ 299,99 | 10% | 90% do valor |
 | Abaixo de R$ 200,00 | 5% | 95% do valor |
 
-## Exemplo 01
+## 📝 Exemplo 01
 
 **Constantes utilizadas:**
 
@@ -83,7 +83,7 @@ valor_final = 300.00 * 0.85 </br>
 
 Olá **Raul**, o valor de desconto foi de **15**% e o valor para pagamento é de R$ **255.00**. 
 
-## Exemplo 02 
+## 📝 Exemplo 02 
 
 **Constantes utilizadas:**
 
@@ -112,7 +112,7 @@ valor_final = 200.00 * 0.90 </br>
 
 Olá **Raul**, o valor de desconto foi de **10**% e o valor para pagamento é de R$ **180.00**.
 
-## Exemplo 03
+## 📝 Exemplo 03
 
 **Constantes utilizadas:**
 
